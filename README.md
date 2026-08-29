@@ -8,7 +8,7 @@
 - Véliz Rubén — 34716
 
 
-## 📁 Repositorio de Actividades
+## 📁 Repositorio de Desarrollo
 Link al repositorio del desarrollo del proyecto.
 
-[Repositorio de actividades](https://github.com/JoakoLP/proyecto-lactar/)
+[Repositorio de desarrollo](https://github.com/JoakoLP/proyecto-lactar/)
